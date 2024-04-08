@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    padding: 0 20%
+
+
+}
+
+aside {
+    width: 50%;
+    padding: 5%;
+
+background-color: antiquewhite;
+color: black;
+}
+
+main{
+    width: 70%;
+  
+    background-color: beige;
+}
+
+.foto img{
+border-radius: 50%;
+width: 100% ;
+box-shadow: 0 0 10px white;
+
+}
+
+.flex-container{
+
+    display: flex;
+}
+
+.margin-titulo{
+    margin: 10 px;
+}
+
+.cotact div {
+    margin-bottom: 10px;
+}
+
